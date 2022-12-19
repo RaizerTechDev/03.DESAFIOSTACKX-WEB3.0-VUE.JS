@@ -31,7 +31,7 @@
 
 ***
 ## <img src="https://media.giphy.com/media/JO9WCVmDMbC0eLSlyV/giphy.gif" align="center" height="70" width="70"> &nbsp;Linguagem Tecnológica do Desafio:
-<img style="width: 80px" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
+<img style="width: 80px" alt="JS" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
 
 ***
 # 3º Desafio <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="55"> VUE.JS
