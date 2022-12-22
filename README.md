@@ -3,7 +3,7 @@
 ***
 # <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="55"> Venho aqui apresentar <img src="https://media.giphy.com/media/LmqitTYGsNMiWu3VWO/giphy.gif" align="center" width="65">
 # DESAFIO WEB 3.0 STACKX
-## Laançados 03 projetos que fazem parte do Módulo Web 3.0 do Curso StackX - Formação de Desenvolvedores de Software. 
+## Lançados 03 projetos que fazem parte do Módulo Web 3.0 do Curso StackX - Formação de Desenvolvedores de Software. 
 ##  Requisitos para o Desafio:
 
 1) A lista de tecnologias deve ser um array onde no HTML você irá fazer um map para listar;
@@ -89,8 +89,9 @@ O Vue. js é um framework Javascript open source bastante conhecido pela sua rea
 - ```npx tailwindcss init``` 
 #### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Funciona verificando todos os seus arquivos HTML, componentes JavaScript e quaisquer outros modelos para nomes de classe, gerando os estilos correspondentes e, em seguida, gravando-os em um arquivo CSS estático. É rápido, flexível e confiável — com tempo de execução zero.
 
- ### Adicionando o plugin vue-i18
+ ### Adicionando o plugin vue-i18n
  -```yarn add -D @intlify/vite-plugin-vue-i18n```
+ #### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25">  O plugin integra facilmente recursos de localização ao seu aplicativo Vue.js.
  
  ### Instalando Vuex
  -```npm install vuex @next --save```  
