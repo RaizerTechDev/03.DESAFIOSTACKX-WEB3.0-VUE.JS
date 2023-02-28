@@ -111,19 +111,4 @@ O Vue. js é um framework Javascript open source bastante conhecido pela sua rea
 ### ▶ 😀👀 Bora lá....
 
 ### Gostou, então já clica na 🌟
-
-
-      
-
-
-
   
-   
-
-
-
-
-
-
-
-
